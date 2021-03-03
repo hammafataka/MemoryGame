@@ -1,0 +1,15 @@
+C:\Users\hamma\source\repos\Memory game\Memory game\bin\Debug\Memory game.exe.config
+C:\Users\hamma\source\repos\Memory game\Memory game\bin\Debug\Memory game.exe
+C:\Users\hamma\source\repos\Memory game\Memory game\bin\Debug\Memory game.pdb
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.csprojAssemblyReference.cache
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\MainWindow.g.cs
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\App.g.cs
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game_MarkupCompile.cache
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game_MarkupCompile.lref
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\MainWindow.baml
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.g.resources
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory_game.Properties.Resources.resources
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.csproj.GenerateResource.cache
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.csproj.CoreCompileInputs.cache
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.exe
+C:\Users\hamma\source\repos\Memory game\Memory game\obj\Debug\Memory game.pdb
